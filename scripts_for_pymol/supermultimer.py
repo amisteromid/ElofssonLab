@@ -1,3 +1,5 @@
+#This script colors identical chains with the same color and superimposes multimers with identical chains to verify whether the order of chains in the complex is correct or not.
+
 from pymol import cmd
 
 def check_identical(seq1, seq2):
