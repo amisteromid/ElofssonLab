@@ -2,7 +2,7 @@
 My master thesis at SciLifeLab in Stockholm under the supervision of Prof. Arne Elofsson
 
 
-![Human 20S Proteasome]()
+![Human 20S Proteasome](5le5.png)
 
 ## _**Abstract**_
 Protein complexes consist of two or more polypeptide chains. However, predicting the entire complex and the order of chains poses a challenge. In some cases, the complexes are too large to be processed by structure prediction software like AlphaFold. Additionally, when chains are homologous (having a common evolutionary origin), the software struggles to distinguish between them.
